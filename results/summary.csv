@@ -1,0 +1,6 @@
+,Temperature (°C),Voltage (V),Charge-discharge cycles,SOC (%),Current (A),Cell imbalance (mV)
+Battery 2,35.9,53.23,45.14,52.64,-0.83,15.8
+Battery 3,37.53,53.93,26.83,54.3,-1.58,4.09
+Battery 4,34.72,52.07,43.0,33.75,-0.7,2.4
+Battery 5,33.9,54.52,37.0,48.6,-1.57,2.97
+Battery 6,38.02,54.25,19.03,50.41,-0.2,6.66
